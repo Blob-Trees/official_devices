@@ -1,0 +1,10 @@
+- The august security patch
+- The kernel has been updated to version 4.14.243
+- Edits for smoothness and speed of system animation
+- Added the option to hide the cutout (Stretch to the cutout) - (Enabled in the developer settings)
+- The phone is no longer heated as before
+- Updated some calibration configs
+- Some edits for wifi 5GHz (overlay)
+- Reduced the speed of the screenshot execution delay
+- Updated sources
+- Other minor changes
